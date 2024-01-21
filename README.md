@@ -8,7 +8,7 @@
   </h1>
    <h3 style="color:SlateBlue;">QA | Selenium Automation Engineer
   </h3>
-  <p dir="auto">I'm Divya G S, a passionate QE and automation engineer from Bangalore, India. working on automating web Application hosted on Salesforce cloud. Possess strong affection about new emerging technologies and primary goal is to deliver the quality of product. 
+  <p dir="auto">I'm Divya G S, a passionate QE and automation engineer from Bangalore, India. working on automating web Application hosted on Salesforce cloud. Possess strong affection about new emerging technologies and primary goal is to deliver the quality product. 
 As a creative person, enjoy being challenged and challenging environments, self-motivated, quick learner, strong interpersonal skills, and work supportively at all levels. Love interacting with a wide range of people from diverse and multicultural backgrounds. Always ready for Team building activities.</p>
   <h5 dir="auto">📫 Reach me out!</h5>
   <h6 style="color:brown;">divyags29589@gmail.com</h6>
