@@ -13,7 +13,7 @@ As a creative person, enjoy being challenged and challenging environments, self-
   <h5 dir="auto">📫 Reach me out!</h5>
   <h6 style="color:brown;">divyags29589@gmail.com</h6>
   <ul dir="auto">
-    <li>🔭 I’m currently working at @Sodaru Technology</li>
+    <li>🔭 I’m currently working at @iCircle</li>
     <li>😄 Pronouns: she/her.</li>
     <li>👩‍💻 Current Activities - Learn new automation tools and technology. Mentor/guide to other team members on automation and process, and deliver QA and Automation artifacts.</li>
     <li>⚡ Fun fact: I enjoy reading articles and paper publicsh on cutting edge technology and travelling with friends, family and co-workers to explore new cultures and diversity.</li>
